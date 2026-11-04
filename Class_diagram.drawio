@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram id="bXChXRqm892OMVUTvq7Z" name="Klassendiagram">
-    <mxGraphModel dx="707" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1019" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,11 +68,8 @@
         <mxCell id="CoXSMUSKacao5pNjpEoX-49" parent="CoXSMUSKacao5pNjpEoX-46" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=0;fontSize=16;" value="+ getKleur(): Kleur&#xa;+ setKleur(Kleur): void" vertex="1">
           <mxGeometry height="199" width="304" x="2" y="145" as="geometry" />
         </mxCell>
-        <mxCell id="CoXSMUSKacao5pNjpEoX-50" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;startSize=50;horizontal=1;collapsible=1;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" value="Toren" vertex="1">
+        <mxCell id="CoXSMUSKacao5pNjpEoX-50" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;startSize=50;horizontal=1;collapsible=1;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" value="Toren" vertex="1">
           <mxGeometry height="124" width="324" x="884" y="1479" as="geometry" />
-        </mxCell>
-        <mxCell id="CoXSMUSKacao5pNjpEoX-51" parent="CoXSMUSKacao5pNjpEoX-50" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=0;fontSize=16;" value="- image: Image" vertex="1">
-          <mxGeometry height="37" width="324" y="50" as="geometry" />
         </mxCell>
         <mxCell id="CoXSMUSKacao5pNjpEoX-52" parent="CoXSMUSKacao5pNjpEoX-50" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;" value="" vertex="1">
           <mxGeometry height="4" width="324" y="87" as="geometry" />
@@ -119,11 +116,8 @@
         <mxCell id="2zTP5HdHabgN2oMHqFG--8" parent="2zTP5HdHabgN2oMHqFG--5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=0;fontSize=16;" value="+ getMogelijkeZetten(bord): Vakje[]" vertex="1">
           <mxGeometry height="37" width="324" y="91" as="geometry" />
         </mxCell>
-        <mxCell id="2zTP5HdHabgN2oMHqFG--9" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;startSize=50;horizontal=1;collapsible=1;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" value="Paard" vertex="1">
+        <mxCell id="2zTP5HdHabgN2oMHqFG--9" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;startSize=50;horizontal=1;collapsible=1;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" value="Paard" vertex="1">
           <mxGeometry height="124" width="324" x="1250" y="1479" as="geometry" />
-        </mxCell>
-        <mxCell id="2zTP5HdHabgN2oMHqFG--10" parent="2zTP5HdHabgN2oMHqFG--9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=0;fontSize=16;" value="- image: Image" vertex="1">
-          <mxGeometry height="37" width="324" y="50" as="geometry" />
         </mxCell>
         <mxCell id="2zTP5HdHabgN2oMHqFG--11" parent="2zTP5HdHabgN2oMHqFG--9" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;" value="" vertex="1">
           <mxGeometry height="4" width="324" y="87" as="geometry" />
